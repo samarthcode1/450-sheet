@@ -14,6 +14,7 @@ public:
         p->next=NULL;
         q->next=head;
         head=q;
+
         return head;
         
     }
