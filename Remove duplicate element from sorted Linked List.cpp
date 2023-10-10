@@ -23,5 +23,5 @@ Node *removeDuplicates(Node *head)
         p=p->next;
     }
     return head;
- 
+
 }
